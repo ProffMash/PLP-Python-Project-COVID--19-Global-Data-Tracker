@@ -95,3 +95,8 @@ This project generates key insights from the COVID-19 data, such as:
 * **Vaccination progress**: The highest vaccination rate in a country as of the latest data.
 
 ---
+
+Plots Example:
+Case Rate:
+
+![alt text](<plots/Case Rate.png>)
