@@ -99,4 +99,4 @@ This project generates key insights from the COVID-19 data, such as:
 Plots Example:
 Case Rate:
 
-![alt text](plots/Case Rate.png)
+![alt text](plots/Case%20Rate.png)
